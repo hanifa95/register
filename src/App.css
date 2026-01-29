@@ -1,0 +1,29 @@
+.register{
+  width: 500px;
+  height: 350px;
+  background: rgb(132, 132, 248);
+  position: absolute;
+  top: 100px;
+  left: 400px;
+  border-radius: 10px;
+}
+
+.login{
+  width: 500px;
+  height: 350px;background: grey;
+  position: absolute;
+  top: 100px;
+  left: 400px;
+  border-radius: 10px;
+}
+
+
+
+.profile{
+  width: 500px;
+  height: 350px;background: rgb(231, 112, 112);
+  position: absolute;
+  top: 100px;
+  left: 400px;
+  border-radius: 10px;
+}
