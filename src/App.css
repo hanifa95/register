@@ -27,3 +27,24 @@
   left: 400px;
   border-radius: 10px;
 }
+
+/* registation */
+.registration{
+  width: 100%;
+  height: 100vh;
+  background: rgb(144, 233, 144);
+}
+
+/* entrance */
+.entrance{
+  width: 100%;
+  height: 100vh;
+  background: rgb(241, 241, 145);
+}
+
+/* detail */
+.detail{
+  width: 100%;
+  height: 100vh;
+  background: rgb(204, 201, 201)
+}
